@@ -27,13 +27,13 @@
   backdrop-filter: blur(10px);
 }
 .main-header {
-  background-image: url(img/Banner.jpg);
+  background-image: url(img/banner2.jpg);
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 100px;
 }
 .default-header {
-  background-image: url(img/Banner.jpg);
+  background-image: url(img/banner2.jpg);
   background-size: cover;
   padding-top: 100px;
   padding-bottom: 50px;
